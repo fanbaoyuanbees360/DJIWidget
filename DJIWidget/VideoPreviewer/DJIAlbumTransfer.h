@@ -6,6 +6,7 @@
 
 
 #import <UIKit/UIKit.h>
+#import <Photos/Photos.h>
 
 #define DJI_IMPORT_DEFAULT_ALBUM (@"DJI Import")
 #define DJI_MOMENTS_ALBUM (@"DJI Moments")
